@@ -1,4 +1,4 @@
-### Specific to building Armbian ###
+## Specific to building Armbian ###
 /.vagrant/
 ubuntu-*-cloudimg-console.log
 
@@ -16,7 +16,7 @@ ubuntu-*-cloudimg-console.log
 /output/
 /cache/
 /*userpatches*/
-/userpatches
+
 
 ### General annoyances ###
 .DS_Store
