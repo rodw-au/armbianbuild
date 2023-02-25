@@ -1,0 +1,24 @@
+sudo cyclictest -t -p80 -i10000
+[sudo] password for odroid: 
+# /dev/cpu_dma_latency set to 0us
+policy: fifo: loadavg: 5.97 4.99 4.23 2/754 6934           
+
+T: 0 ( 6851) P:80 I:10000 C:   6779 Min:      9 Act:   58 Avg:   25 Max:     321
+T: 1 ( 6852) P:80 I:10500 C:   6456 Min:      9 Act:   25 Avg:   27 Max:     306
+^Codroid@odroidn2:~$ 
+odroid@odroidn2:~$ sudo cyclictest -t -p80 -i10000
+# /dev/cpu_dma_latency set to 0us
+policy: fifo: loadavg: 4.69 4.64 4.17 2/751 7083          
+
+T: 0 ( 7049) P:80 I:10000 C:   1147 Min:      9 Act:   15 Avg:   28 Max:     283
+T: 1 ( 7050) P:80 I:10500 C:   1093 Min:     10 Act:   37 Avg:   26 Max:     179
+^Codroid@odroidn2:~sudo cyclictest -t -p80 -i10000 >cyclictest1.txt
+^Codroid@odroidn2:~cat cyclictest.txt
+# /dev/cpu_dma_latency set to 0us
+policy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    250 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    238 Min:      8 Act:   11 Avg:   11 Max:      48
+odroid@odroidn2:~$ 
+
+
