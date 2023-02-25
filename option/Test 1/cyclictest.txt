@@ -1,0 +1,985 @@
+# /dev/cpu_dma_latency set to 0us
+policy: fifo: loadavg: 3.36 4.45 3.91 4/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      0 Min:1000000 Act:    0 Avg:    0 Max:       0
+T: 1 (    0) P:80 I:10500 C:      0 Min:1000000 Act:    0 Avg:    0 Max:       0
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      1 Min:     13 Act:   13 Avg:   13 Max:      13
+T: 1 ( 6660) P:80 I:10500 C:      0 Min:1000000 Act:    0 Avg:    0 Max:       0
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      2 Min:     12 Act:   12 Avg:   12 Max:      13
+T: 1 ( 6660) P:80 I:10500 C:      1 Min:     11 Act:   11 Avg:   11 Max:      11
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      3 Min:     11 Act:   11 Avg:   12 Max:      13
+T: 1 ( 6660) P:80 I:10500 C:      2 Min:     11 Act:   12 Avg:   11 Max:      12
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      4 Min:     10 Act:   10 Avg:   11 Max:      13
+T: 1 ( 6660) P:80 I:10500 C:      3 Min:     11 Act:   13 Avg:   12 Max:      13
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      5 Min:      9 Act:    9 Avg:   11 Max:      13
+T: 1 ( 6660) P:80 I:10500 C:      4 Min:     11 Act:   11 Avg:   11 Max:      13
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      6 Min:      9 Act:    9 Avg:   10 Max:      13
+T: 1 ( 6660) P:80 I:10500 C:      5 Min:     11 Act:   12 Avg:   11 Max:      13
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      7 Min:      9 Act:   20 Avg:   12 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:      6 Min:     10 Act:   10 Avg:   11 Max:      13
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      8 Min:      9 Act:   14 Avg:   12 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:      7 Min:     10 Act:   14 Avg:   11 Max:      14
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:      9 Min:      8 Act:    8 Avg:   11 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:      8 Min:     10 Act:   11 Avg:   11 Max:      14
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     10 Min:      8 Act:    9 Avg:   11 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:      9 Min:     10 Act:   11 Avg:   11 Max:      14
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     11 Min:      8 Act:    9 Avg:   11 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     10 Min:     10 Act:   10 Avg:   11 Max:      14
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 2/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     12 Min:      8 Act:    9 Avg:   11 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     11 Min:     10 Act:   12 Avg:   11 Max:      14
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     13 Min:      8 Act:   11 Avg:   11 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     12 Min:     10 Act:   15 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     14 Min:      8 Act:    9 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     13 Min:     10 Act:   10 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     15 Min:      8 Act:    9 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     14 Min:     10 Act:   10 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     16 Min:      8 Act:    8 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     15 Min:     10 Act:   10 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     17 Min:      8 Act:    9 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     16 Min:     10 Act:   10 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     18 Min:      8 Act:   10 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     17 Min:     10 Act:   11 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     19 Min:      8 Act:    9 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     18 Min:      9 Act:    9 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     20 Min:      8 Act:   10 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     19 Min:      9 Act:    9 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     21 Min:      8 Act:   12 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     20 Min:      9 Act:   12 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     22 Min:      8 Act:    9 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     21 Min:      9 Act:    9 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     23 Min:      8 Act:    9 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     22 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     24 Min:      8 Act:    8 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     23 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     25 Min:      8 Act:   10 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     24 Min:      9 Act:   12 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     26 Min:      8 Act:    9 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     25 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     27 Min:      8 Act:    9 Avg:   10 Max:      20
+T: 1 ( 6660) P:80 I:10500 C:     26 Min:      9 Act:   12 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     28 Min:      8 Act:   26 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     27 Min:      9 Act:   14 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     29 Min:      8 Act:   11 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     28 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     30 Min:      8 Act:    8 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     29 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     31 Min:      8 Act:   14 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     29 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     32 Min:      8 Act:    8 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     30 Min:      9 Act:   12 Avg:   11 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     33 Min:      8 Act:    8 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     31 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     34 Min:      8 Act:    8 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     32 Min:      9 Act:   12 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     35 Min:      8 Act:    8 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     33 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     36 Min:      8 Act:    8 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     34 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     37 Min:      8 Act:    9 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     35 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     38 Min:      8 Act:    9 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     36 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     39 Min:      8 Act:    8 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     37 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     40 Min:      8 Act:    8 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     38 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 3/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     41 Min:      8 Act:    9 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     39 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     42 Min:      8 Act:   12 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     40 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     43 Min:      8 Act:    9 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     41 Min:      9 Act:   15 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     44 Min:      8 Act:    9 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     42 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     45 Min:      8 Act:    9 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     43 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     46 Min:      8 Act:    9 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     44 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     47 Min:      8 Act:   10 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     45 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     48 Min:      8 Act:    9 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     46 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     49 Min:      8 Act:    8 Avg:   10 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     47 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     50 Min:      8 Act:    8 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     48 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     51 Min:      8 Act:    9 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     49 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     52 Min:      8 Act:    9 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     50 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     53 Min:      8 Act:    8 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     51 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     54 Min:      8 Act:    8 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     52 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     55 Min:      8 Act:   13 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     53 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     57 Min:      8 Act:   12 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     54 Min:      9 Act:   13 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     58 Min:      8 Act:   10 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     55 Min:      9 Act:   13 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     59 Min:      8 Act:    8 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     56 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     60 Min:      8 Act:    8 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     57 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     61 Min:      8 Act:    8 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     58 Min:      9 Act:   13 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     62 Min:      8 Act:    8 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     59 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     63 Min:      8 Act:   10 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     60 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     64 Min:      8 Act:   10 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     61 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     65 Min:      8 Act:   11 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     61 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     66 Min:      8 Act:    9 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     62 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     67 Min:      8 Act:    9 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     63 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     68 Min:      8 Act:    9 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     64 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     69 Min:      8 Act:    9 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     65 Min:      9 Act:   11 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     70 Min:      8 Act:    8 Avg:    9 Max:      26
+T: 1 ( 6660) P:80 I:10500 C:     66 Min:      9 Act:   10 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 3/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     71 Min:      8 Act:   34 Avg:   10 Max:      34
+T: 1 ( 6660) P:80 I:10500 C:     67 Min:      9 Act:    9 Avg:   10 Max:      15
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 2/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     72 Min:      8 Act:   28 Avg:   10 Max:      34
+T: 1 ( 6660) P:80 I:10500 C:     68 Min:      9 Act:   31 Avg:   10 Max:      31
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 3/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     73 Min:      8 Act:   47 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     69 Min:      9 Act:   48 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 2/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     74 Min:      8 Act:   38 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     70 Min:      9 Act:   34 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     75 Min:      8 Act:   21 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     71 Min:      9 Act:   25 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     76 Min:      8 Act:   20 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     72 Min:      9 Act:   18 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     77 Min:      8 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     73 Min:      9 Act:   11 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     78 Min:      8 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     74 Min:      9 Act:   12 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     79 Min:      8 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     75 Min:      9 Act:   10 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     80 Min:      8 Act:   11 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     76 Min:      9 Act:   10 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     81 Min:      8 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     77 Min:      9 Act:   15 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     82 Min:      8 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     78 Min:      9 Act:   11 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     83 Min:      8 Act:   17 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     79 Min:      9 Act:   12 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     84 Min:      8 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     80 Min:      9 Act:   10 Avg:   12 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     85 Min:      8 Act:   12 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     81 Min:      9 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     86 Min:      8 Act:   11 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     82 Min:      9 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     87 Min:      8 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     83 Min:      9 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     88 Min:      8 Act:   12 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     84 Min:      9 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     89 Min:      8 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     85 Min:      9 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     90 Min:      8 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     86 Min:      9 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     91 Min:      8 Act:   16 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     87 Min:      9 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     92 Min:      8 Act:   11 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     88 Min:      9 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     93 Min:      8 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     89 Min:      9 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     94 Min:      8 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     90 Min:      9 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     95 Min:      8 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     91 Min:      8 Act:    8 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     96 Min:      8 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     92 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     97 Min:      7 Act:    7 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     93 Min:      8 Act:   13 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     98 Min:      7 Act:   12 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     94 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:     99 Min:      7 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     94 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    100 Min:      7 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     95 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    101 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     96 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    102 Min:      7 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     97 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    103 Min:      7 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     98 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    104 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:     99 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    105 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    100 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    106 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    101 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    107 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    102 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    108 Min:      7 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    103 Min:      8 Act:    8 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    109 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    104 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    110 Min:      7 Act:   14 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    105 Min:      8 Act:   14 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    111 Min:      7 Act:   13 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    106 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    112 Min:      7 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    107 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    114 Min:      7 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    108 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    115 Min:      7 Act:    7 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    109 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    116 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    110 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 3/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    117 Min:      7 Act:   30 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    111 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    118 Min:      7 Act:   11 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    112 Min:      8 Act:   15 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    119 Min:      7 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    113 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    120 Min:      7 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    114 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    121 Min:      7 Act:   13 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    115 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    122 Min:      7 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    116 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    123 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    117 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    124 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    118 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    125 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    119 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    126 Min:      7 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    120 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    127 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    121 Min:      8 Act:    8 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    128 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    122 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    129 Min:      7 Act:   11 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    123 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    130 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    124 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    131 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    124 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    132 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    125 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    133 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    126 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    134 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    127 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    135 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    128 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    136 Min:      7 Act:    7 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    129 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 2/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    137 Min:      7 Act:   18 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    130 Min:      8 Act:   37 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    138 Min:      7 Act:   30 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    131 Min:      8 Act:   33 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    139 Min:      7 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    132 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    140 Min:      7 Act:   11 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    133 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    141 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    134 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    142 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    135 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    143 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    136 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    144 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    137 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    145 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    138 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    146 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    139 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    147 Min:      7 Act:   17 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    140 Min:      8 Act:   13 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    148 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    141 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    149 Min:      7 Act:   11 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    142 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    150 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    143 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    151 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    144 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    152 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    145 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    153 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    146 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    154 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    147 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    155 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    148 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    156 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    149 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    157 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    150 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    158 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    151 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    159 Min:      7 Act:    7 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    152 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    160 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    153 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    161 Min:      7 Act:   11 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    154 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    162 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    154 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    163 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    155 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    164 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    156 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    165 Min:      7 Act:   11 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    157 Min:      8 Act:   15 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6660          
+
+T: 0 ( 6659) P:80 I:10000 C:    166 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    158 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 2/743 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    167 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    159 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/743 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    168 Min:      7 Act:   13 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    160 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 4/743 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    170 Min:      7 Act:   38 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    162 Min:      8 Act:   42 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 4/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    171 Min:      7 Act:   30 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    163 Min:      8 Act:   35 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    172 Min:      7 Act:   30 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    164 Min:      8 Act:   17 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    173 Min:      7 Act:   12 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    165 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    174 Min:      7 Act:   16 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    166 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.36 4.45 3.91 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    175 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    167 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    176 Min:      7 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    168 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 2/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    177 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    169 Min:      8 Act:   21 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    178 Min:      7 Act:   15 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    170 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    179 Min:      7 Act:   11 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    171 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    180 Min:      7 Act:   11 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    172 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    181 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    173 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    182 Min:      7 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    174 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    183 Min:      7 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    175 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    184 Min:      7 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    176 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    185 Min:      7 Act:   13 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    177 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    186 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    178 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    188 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    179 Min:      8 Act:   13 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    189 Min:      7 Act:    7 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    179 Min:      8 Act:   13 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    190 Min:      7 Act:    8 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    180 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    191 Min:      7 Act:    7 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    181 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    192 Min:      7 Act:   11 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    182 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    193 Min:      7 Act:    7 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    183 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    194 Min:      7 Act:   10 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    184 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    195 Min:      7 Act:    9 Avg:   11 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    185 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    196 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    186 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    197 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    187 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    198 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    188 Min:      8 Act:   14 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    199 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    189 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    200 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    190 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    201 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    191 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    202 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    192 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    203 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    193 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    204 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    194 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    205 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    195 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    206 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    196 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    207 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    197 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    208 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    198 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    209 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    199 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    210 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    200 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    211 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    201 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    212 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    202 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    213 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    203 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    214 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    204 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    215 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    205 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    216 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    206 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    217 Min:      7 Act:    7 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    207 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    218 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    208 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    219 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    208 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    220 Min:      7 Act:   30 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    209 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 2/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    221 Min:      7 Act:   12 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    210 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    222 Min:      7 Act:   15 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    211 Min:      8 Act:   15 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    223 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    212 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 2/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    224 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    213 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    225 Min:      7 Act:   35 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    214 Min:      8 Act:   25 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    226 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    215 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    227 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    216 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    228 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    217 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    229 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    218 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    230 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    219 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    231 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    220 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    232 Min:      7 Act:   12 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    221 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    233 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    222 Min:      8 Act:   13 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    234 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    223 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    235 Min:      7 Act:   11 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    224 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    236 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    225 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    237 Min:      7 Act:   11 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    226 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    238 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    227 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    239 Min:      7 Act:   10 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    228 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    241 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    229 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    242 Min:      7 Act:    9 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    230 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    243 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    231 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    244 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    232 Min:      8 Act:   11 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    245 Min:      7 Act:    7 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    233 Min:      8 Act:   12 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    246 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    234 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    247 Min:      7 Act:    7 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    235 Min:      8 Act:   10 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    248 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    236 Min:      8 Act:    8 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    249 Min:      7 Act:    7 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    237 Min:      8 Act:    9 Avg:   11 Max:      48
+[4Apolicy: fifo: loadavg: 3.81 4.52 3.94 1/742 6661          
+
+T: 0 ( 6659) P:80 I:10000 C:    250 Min:      7 Act:    8 Avg:   10 Max:      47
+T: 1 ( 6660) P:80 I:10500 C:    238 Min:      8 Act:   11 Avg:   11 Max:      48
